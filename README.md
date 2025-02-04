@@ -8,7 +8,7 @@ Perspectives in Play: Integrating Minority Voices with a Multi-Perspective Lens
 Results show that the multi-perspective approach achieves superior classification performance (higher F1-scores), outperforming the traditional approaches that rely on a single ground-truth. Additionally, we assessed the models' ability to approximate human label distributions using Jensen-Shannon Divergence (JSD) as soft metric of reference. Notably, the multi-perspective models outperformed both baseline models across diverse subjective tasks. However, it exhibits lower model confidence in tasks like irony and stance detection, likely due to the inherent subjectivity present in the texts. Lastly, we exploit model uncertainty using Explainable AI (XAI) techniques and uncover meaningful insights into model predictions.
 
 
-#Paper Link
+Paper Link
 
 
 ## 1.Prerequisites
