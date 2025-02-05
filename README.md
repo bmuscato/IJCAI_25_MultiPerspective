@@ -17,7 +17,7 @@ requirements.txt includes the list of Python package requirements.
 
 
 ## 2. Data pre-processing 
-data_preparation.ipynb includes the pre-processing fucntions.
+data_preparation.ipynb includes the pre-processing functions.
 
 ## 3. Document summarization
 gpt_summarization.ipynb contains instructions for document summarization.
