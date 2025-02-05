@@ -24,6 +24,6 @@ gpt_summarization.ipynb contains instructions for document summarization.
 ## 3. Baseline 
 Contains two baselines: majority vote, predicting hard label and ensemble, predicting first single annotations and then aggregating into one hard label.
 
-##4. MultiPerspective
+## 4. MultiPerspective
 Contains multi-perspective: input and outputs are represented as soft label, probability distribution. 
 
