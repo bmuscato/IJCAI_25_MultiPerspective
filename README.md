@@ -17,8 +17,13 @@ requirements.txt includes the list of Python package requirements.
 
 
 ## 2. Data pre-processing 
+Go to pre_proc folder 
 data_preparation.ipynb includes the pre-processing functions.
-
-## 3. Document summarization
 gpt_summarization.ipynb contains instructions for document summarization.
+
+## 3. Baseline 
+Contains two baselines: majority vote, predicting hard label and ensemble, predicting first single annotations and then aggregating into one hard label.
+
+##4. MultiPerspective
+Contains multi-perspective: input and outputs are represented as soft label, probability distribution. 
 
