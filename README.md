@@ -1,7 +1,7 @@
 # IJCAI_25_MultiP
 
 
-**Perspectives in Play: Integrating Minority Voices with a Multi-Perspective Lens**
+**The Value of Disagreement: A Multi-Perspective Approach for more Inclusive Language Models**
 
 **Abstract**
 
