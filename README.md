@@ -1,4 +1,4 @@
-# IJCAI_25_MultiP
+# IJCAI_25_MultiPerspective
 
 
 **The Value of Disagreement: A Multi-Perspective Approach for more Inclusive Language Models**
