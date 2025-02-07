@@ -27,3 +27,6 @@ Contains two baselines: majority vote, predicting hard label and ensemble, predi
 ## 4. MultiPerspective
 Contains multi-perspective: input and outputs are represented as soft label, probability distribution. 
 
+## 5. XAI
+Contains feature-based attribution methods code for LIME, SHAP, Layer Integated Gradient (LIG). Attention matrices code and Layer Condunctance (LC). 
+
