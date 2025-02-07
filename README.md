@@ -17,7 +17,7 @@ requirements.txt includes the list of Python package requirements.
 
 
 ## 2. Data pre-processing 
-Go to pre_proc folder 
+Go to pre_processing folder 
 data_preparation.ipynb includes the pre-processing functions.
 gpt_summarization.ipynb contains instructions for document summarization.
 
