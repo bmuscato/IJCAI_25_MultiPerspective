@@ -30,3 +30,6 @@ Contains multi-perspective: input and outputs are represented as soft label, pro
 ## 5. XAI
 Contains feature-based attribution methods code for LIME, SHAP, Layer Integated Gradient (LIG). Attention matrices code and Layer Condunctance (LC). 
 
+## 6. Appendix
+Supplementary materials, including document summarization, fine-tuning details, and XAI visualizations is available here. 
+
