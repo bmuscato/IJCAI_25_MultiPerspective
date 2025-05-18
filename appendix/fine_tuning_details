@@ -1,5 +1,5 @@
 
-## BERT-large and RoBERTa-large
+## 1.BERT-large and RoBERTa-large
 
 
 In this project, we fine-tuned the BERT-large and RoBERTa-large models using both baseline and multi-perspective approaches. For consistency and reproducibility, we relied on standard hyperparameter settings commonly used in the literature. Specifically, each model was trained for a total of **8 epochs** using a **learning rate of 5e-5**, following the approach outlined by Davani et al. (2022). 
@@ -9,7 +9,7 @@ In addition to early stopping, we applied **weight decay** with a coefficient of
 
 The fine-tuning process was conducted on a high-performance computing setup comprising **two NVIDIA Tesla V100 GPUs**, each with 32GB of memory. This allowed us to train the models efficiently, even with large input sequences and complex model architectures.
 
-## Loss Function for Baseline Model
+## 2.Loss Function for Baseline Model
 
 For the baseline model, we used a **multi-class cross-entropy loss** function. This loss is well-suited for classification tasks where the objective is to assign an input to one of several classes. It is defined as:
 
