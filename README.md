@@ -1,7 +1,7 @@
 # IJCAI_25_MultiPerspective
 
 
-**Integrating Minority Voices: A Multi-Perspective Approach for more Inclusive Language Models**
+**Perspectives in Play:A Multi-Perspective Approach for more Inclusive NLP Systems**
 
 **Abstract**
 
